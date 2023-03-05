@@ -1,0 +1,191 @@
+a:hover{
+    text-decoration: none;
+    background-color:#e66767;
+}
+#header{
+    color: #fff;
+    background-color:#e15f41;
+}
+#menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+}
+#menu li a{
+    color: azure;
+    
+    margin-left: 5px;
+    padding: 15px 10px;
+    display: block;
+}
+#logo
+{
+    font-size: 2rem;
+    padding: 5px 70px;
+    
+}
+#banner
+{
+    background-image: url('/static/images/banner.jpg');
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+    padding: 2cm 8cm;
+}
+.little 
+{
+    background:#7ed6df;
+    display: inline-block;
+    padding: 10px;
+    margin: 5;
+
+}
+#footer-sidebar
+{
+    background-color:#34495e;
+    color: aliceblue;
+    padding: 20px 0;
+    text-align: center;
+}
+.footer-widget a{
+    color: #fff;
+    list-style: none;
+}
+
+
+.little
+{
+    color:black;
+    background-color:#d2dae2
+
+
+}
+.lead
+{
+    color: black;
+    background-color:#ff7979;
+}
+.section{
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.section-box.section-head
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+    background-color: #d2dae2;
+
+}
+.section-box h2.section-head:after
+{
+    background-color: aqua;
+    display: block;
+    width: 100px;
+    height: 3px;
+    margin: 20px auto;
+  
+}
+
+.section-box
+{
+    text-align: center;
+}
+.section-box i.bi
+{
+    color: #e74c3c;
+    font-size: 70px;
+    margin-bottom: 15px;
+}
+#section-b
+{
+   background-image: url('./images/testimonial-bg.jpg');
+   background-size: cover;
+   padding: 50px 0;
+   position: relative;
+   text-align: center;
+   color:whitesmoke;
+   
+}
+#section-b:before
+{
+background:rgba(25,73, 94, 0.2);
+content: "";
+position: absolute;
+top: 0;
+width: 100%;
+height: 100%;
+}
+
+.testminal
+{
+    color: #fff;
+
+	
+	padding: 0px 75px;
+	position: relative;
+    
+}
+.authore 
+{
+    align-items: center;
+
+}
+#news{
+    
+ 
+
+
+}
+.section-head
+{
+    padding: 20px 20px;
+
+}
+.section-A{
+    padding: 25px 70px;
+    align-items: center;
+    text-align: center;
+    padding: 50px ,50px;
+}
+
+.latest-news ul{
+	
+    list-style-type: none;
+    text-align: center;
+	padding: 0;
+	margin: 0;
+}
+.latest-news
+{
+    text-align: center;
+
+}
+#footer-sidebar
+{
+    padding: 50px 25px;
+align-items: center;
+}
+.add {
+text-align: center;
+}
+.foot{
+    background-color:#fff
+
+}
+.C
+{
+    background-color: #ff7979;
+    padding: 10px;
+
+}
+#social-icons{
+    
+    
+}
+.section-box{
+    padding: 20px;
+}
